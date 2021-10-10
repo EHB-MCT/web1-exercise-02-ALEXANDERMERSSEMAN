@@ -1,0 +1,15 @@
+.descadent-selector p {
+    background-color: red;
+}
+
+.child-selector>p {
+    background-color: green;
+}
+
+h2+p {
+    background-color: blue;
+}
+
+.JENNA p {
+background-color: blueviolet;
+}
